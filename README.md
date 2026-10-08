@@ -29,7 +29,7 @@ Welcome to the definitive, developer-curated directory of **frontend web and mob
 
 **Key Market Insights:** 📊
 - **Firebase** 🔥 and **AWS Amplify** ☁️ lead the hyperscaler BaaS segment with deep cloud infrastructure, real-time database capabilities, and authentication engines.
-- **Supabase** 🟢 dominates open-source BaaS with over **111K+ GitHub stars**, offering PostgreSQL real-time subscriptions, auth, vector search, and edge functions.
+- **Supabase** 🟢 dominates open-source BaaS with over **111K+ GitHub_Stars**, offering PostgreSQL real-time subscriptions, auth, vector search, and edge functions.
 - **Vercel** ▲ and **Netlify** 🔵 command frontend web deployment & serverless hosting for modern React, Next.js, and Nuxt web frameworks.
 
 ---
@@ -68,58 +68,58 @@ The global Backend-as-a-Service (BaaS) and frontend development platform market 
 
 ## 🔓 Open-Source GitHub Projects 💻
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[Supabase](https://github.com/supabase/supabase)** [![Stars](https://img.shields.io/github/stars/supabase/supabase?style=social&color=white)](https://github.com/supabase/supabase/stargazers)  
-  **The open-source Firebase alternative**, Apache-2.0 licensed. **111K+ GitHub stars** — PostgreSQL-based real-time subscriptions, auth, file storage, vector embeddings, and edge functions. Self-hostable via Docker/Compose. 🟢
+  **The open-source Firebase alternative**, Apache-2.0 licensed. **111K+ GitHub_Stars** — PostgreSQL-based real-time subscriptions, auth, file storage, vector embeddings, and edge functions. Self-hostable via Docker/Compose. 🟢
 
 - **[Strapi](https://github.com/strapi/strapi)** [![Stars](https://img.shields.io/github/stars/strapi/strapi?style=social&color=white)](https://github.com/strapi/strapi/stargazers)  
-  **Open-source headless CMS & API framework**, MIT licensed. **73K+ GitHub stars** — Customizable Node.js headless CMS delivering REST and GraphQL APIs instantly with an extensible admin panel. 🚀
+  **Open-source headless CMS & API framework**, MIT licensed. **73K+ GitHub_Stars** — Customizable Node.js headless CMS delivering REST and GraphQL APIs instantly with an extensible admin panel. 🚀
 
 - **[PocketBase](https://github.com/pocketbase/pocketbase)** [![Stars](https://img.shields.io/github/stars/pocketbase/pocketbase?style=social&color=white)](https://github.com/pocketbase/pocketbase/stargazers)  
-  **Open-source backend in a single file**, MIT licensed. **61K+ GitHub stars** — Embedded SQLite database with real-time subscriptions, built-in auth management, file storage, and admin dashboard in one executable. 📦
+  **Open-source backend in a single file**, MIT licensed. **61K+ GitHub_Stars** — Embedded SQLite database with real-time subscriptions, built-in auth management, file storage, and admin dashboard in one executable. 📦
 
 - **[Appwrite](https://github.com/appwrite/appwrite)** [![Stars](https://img.shields.io/github/stars/appwrite/appwrite?style=social&color=white)](https://github.com/appwrite/appwrite/stargazers)  
-  **End-to-end open-source BaaS platform**, BSD-3-Clause licensed. **57K+ GitHub stars** — Self-hosted backend server providing core APIs for web, mobile, and Flutter apps (auth, database, storage, functions). 🟣
+  **End-to-end open-source BaaS platform**, BSD-3-Clause licensed. **57K+ GitHub_Stars** — Self-hosted backend server providing core APIs for web, mobile, and Flutter apps (auth, database, storage, functions). 🟣
 
 - **[Payload CMS](https://github.com/payloadcms/payload)** [![Stars](https://img.shields.io/github/stars/payloadcms/payload?style=social&color=white)](https://github.com/payloadcms/payload/stargazers)  
-  **TypeScript headless CMS & application framework**, MIT licensed. **45K+ GitHub stars** — Code-first headless CMS built natively for Next.js, React, and Node.js with automated GraphQL/REST generation. ⚡
+  **TypeScript headless CMS & application framework**, MIT licensed. **45K+ GitHub_Stars** — Code-first headless CMS built natively for Next.js, React, and Node.js with automated GraphQL/REST generation. ⚡
 
 - **[Directus](https://github.com/directus/directus)** [![Stars](https://img.shields.io/github/stars/directus/directus?style=social&color=white)](https://github.com/directus/directus/stargazers)  
-  **Open-source data platform & headless API**, BSL-1.1 licensed. **38K+ GitHub stars** — Wraps any SQL database with dynamic GraphQL & REST APIs and an intuitive no-code admin console. 🎯
+  **Open-source data platform & headless API**, BSL-1.1 licensed. **38K+ GitHub_Stars** — Wraps any SQL database with dynamic GraphQL & REST APIs and an intuitive no-code admin console. 🎯
 
 - **[Medusa](https://github.com/medusajs/medusa)** [![Stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers)  
-  **Open-source digital commerce backend platform**, MIT licensed. **36K+ GitHub stars** — Modular Node.js commerce engine serving as a self-hosted Shopify alternative for web and mobile commerce applications. 🛍️
+  **Open-source digital commerce backend platform**, MIT licensed. **36K+ GitHub_Stars** — Modular Node.js commerce engine serving as a self-hosted Shopify alternative for web and mobile commerce applications. 🛍️
 
 - **[SurrealDB](https://github.com/surrealdb/surrealdb)** [![Stars](https://img.shields.io/github/stars/surrealdb/surrealdb?style=social&color=white)](https://github.com/surrealdb/surrealdb/stargazers)  
-  **Multi-model cloud-native database & BaaS**, Business Source License. **33K+ GitHub stars** — Combines database, real-time engine, authentication, and permission layer into a single multi-model server. ⚡
+  **Multi-model cloud-native database & BaaS**, Business Source License. **33K+ GitHub_Stars** — Combines database, real-time engine, authentication, and permission layer into a single multi-model server. ⚡
 
 - **[Hasura GraphQL Engine](https://github.com/hasura/graphql-engine)** [![Stars](https://img.shields.io/github/stars/hasura/graphql-engine?style=social&color=white)](https://github.com/hasura/graphql-engine/stargazers)  
-  **Instant GraphQL API engine over databases**, Apache-2.0 licensed. **32K+ GitHub stars** — Connects to PostgreSQL, MySQL, and SQL Server to provide instant, real-time GraphQL APIs with authorization. 🔗
+  **Instant GraphQL API engine over databases**, Apache-2.0 licensed. **32K+ GitHub_Stars** — Connects to PostgreSQL, MySQL, and SQL Server to provide instant, real-time GraphQL APIs with authorization. 🔗
 
 - **[Parse Server](https://github.com/parse-community/parse-server)** [![Stars](https://img.shields.io/github/stars/parse-community/parse-server?style=social&color=white)](https://github.com/parse-community/parse-server/stargazers)  
-  **Open-source Parse API compatible engine**, BSD-3-Clause licensed. **21K+ GitHub stars** — The Node.js framework for running Parse backends on MongoDB or PostgreSQL infrastructure. 🏛️
+  **Open-source Parse API compatible engine**, BSD-3-Clause licensed. **21K+ GitHub_Stars** — The Node.js framework for running Parse backends on MongoDB or PostgreSQL infrastructure. 🏛️
 
 - **[FeathersJS](https://github.com/feathersjs/feathers)** [![Stars](https://img.shields.io/github/stars/feathersjs/feathers?style=social&color=white)](https://github.com/feathersjs/feathers/stargazers)  
-  **Real-time microservice & API framework**, MIT licensed. **15K+ GitHub stars** — TypeScript framework for building real-time applications and REST APIs with Socket.io and database adapters. ⚡
+  **Real-time microservice & API framework**, MIT licensed. **15K+ GitHub_Stars** — TypeScript framework for building real-time applications and REST APIs with Socket.io and database adapters. ⚡
 
 - **[InstantDB](https://github.com/instantdb/instant)** [![Stars](https://img.shields.io/github/instantdb/instant?style=social&color=white)](https://github.com/instantdb/instant/stargazers)  
-  **Client-side real-time graph database**, MIT licensed. **10K+ GitHub stars** — Modern client-side database for React and React Native that synchronizes relational state automatically in real-time. ⚡
+  **Client-side real-time graph database**, MIT licensed. **10K+ GitHub_Stars** — Modern client-side database for React and React Native that synchronizes relational state automatically in real-time. ⚡
 
 - **[Firebase JS SDK](https://github.com/firebase/firebase-js-sdk)** [![Stars](https://img.shields.io/github/stars/firebase/firebase-js-sdk?style=social&color=white)](https://github.com/firebase/firebase-js-sdk/stargazers)  
-  **Official Firebase JavaScript client SDK**, Apache-2.0 licensed. **9.5K+ GitHub stars** — Open-source JavaScript/TypeScript SDK for connecting web applications to Firebase BaaS. 🔥
+  **Official Firebase JavaScript client SDK**, Apache-2.0 licensed. **9.5K+ GitHub_Stars** — Open-source JavaScript/TypeScript SDK for connecting web applications to Firebase BaaS. 🔥
 
 - **[AWS Amplify JS](https://github.com/aws-amplify/amplify-js)** [![Stars](https://img.shields.io/github/stars/aws-amplify/amplify-js?style=social&color=white)](https://github.com/aws-amplify/amplify-js/stargazers)  
-  **Official AWS Amplify client libraries**, Apache-2.0 licensed. **9.3K+ GitHub stars** — Open-source client libraries connecting web and mobile frontends to AWS cloud services. ☁️
+  **Official AWS Amplify client libraries**, Apache-2.0 licensed. **9.3K+ GitHub_Stars** — Open-source client libraries connecting web and mobile frontends to AWS cloud services. ☁️
 
 - **[Nhost](https://github.com/nhost/nhost)** [![Stars](https://img.shields.io/github/stars/nhost/nhost?style=social&color=white)](https://github.com/nhost/nhost/stargazers)  
-  **Open-source GraphQL BaaS platform**, MIT licensed. **5.1K+ GitHub stars** — Full-stack open-source platform providing Hasura GraphQL, PostgreSQL, Authentication, and S3-compatible storage. 🔗
+  **Open-source GraphQL BaaS platform**, MIT licensed. **5.1K+ GitHub_Stars** — Full-stack open-source platform providing Hasura GraphQL, PostgreSQL, Authentication, and S3-compatible storage. 🔗
 
 - **[LoopBack 4](https://github.com/loopbackio/loopback-next)** [![Stars](https://img.shields.io/github/stars/loopbackio/loopback-next?style=social&color=white)](https://github.com/loopbackio/loopback-next/stargazers)  
-  **TypeScript REST API framework for Node.js**, MIT licensed. **5.1K+ GitHub stars** — Enterprise-grade framework for building APIs, microservices, and custom BaaS backends. 🔧
+  **TypeScript REST API framework for Node.js**, MIT licensed. **5.1K+ GitHub_Stars** — Enterprise-grade framework for building APIs, microservices, and custom BaaS backends. 🔧
 
 - **[Kuzzle](https://github.com/kuzzleio/kuzzle)** [![Stars](https://img.shields.io/github/stars/kuzzleio/kuzzle?style=social&color=white)](https://github.com/kuzzleio/kuzzle/stargazers)  
-  **Open-source backend for IoT, web & mobile**, Apache-2.0 licensed. **1.6K+ GitHub stars** — Scalable multi-protocol backend server featuring real-time pub/sub, auth, and database indexing. 🎯
+  **Open-source backend for IoT, web & mobile**, Apache-2.0 licensed. **1.6K+ GitHub_Stars** — Scalable multi-protocol backend server featuring real-time pub/sub, auth, and database indexing. 🎯
 
 ---
 
@@ -129,7 +129,7 @@ Contributions are welcome! Follow these steps to submit new frontend development
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact star badge, license, and concise description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Badge, license, and concise description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 ---
@@ -155,7 +155,7 @@ Thank you so much for supporting open-source software and community-curated deve
 ## ⚠️ Disclaimer ℹ️
 
 - This is a **community-curated** list — not exhaustive and not an endorsement. ℹ️
-- **Supabase is the leading open-source Firebase alternative** with **111K+ GitHub stars** and PostgreSQL-based real-time engine. **Strapi** leads headless CMS with **73K+ stars**, and **PocketBase** offers a lightweight single-file SQLite backend with **61K+ stars**.
+- **Supabase is the leading open-source Firebase alternative** with **111K+ GitHub_Stars** and PostgreSQL-based real-time engine. **Strapi** leads headless CMS with **73K+ stars**, and **PocketBase** offers a lightweight single-file SQLite backend with **61K+ stars**.
 - **Firebase offers a free Spark plan**, **Vercel offers a free Hobby plan**, and **Supabase offers a free 500 MB Postgres tier**.
 - **Open-source BaaS platforms require self-hosting** — database setup, security policies, and server maintenance are required when not using managed cloud offerings. 🌐
 
